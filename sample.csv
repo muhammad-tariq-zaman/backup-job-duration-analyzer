@@ -1,0 +1,4 @@
+job,system,started,finished
+JOB-1,File server,2026-11-10T22:00,2026-11-10T23:30
+JOB-2,Mail server,2026-11-10T22:00,2026-11-11T01:15
+JOB-3,DB server,2026-11-10T23:00,2026-11-10T23:45
